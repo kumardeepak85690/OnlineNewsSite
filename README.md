@@ -78,7 +78,7 @@ List the ready features here:
 
 13. admin login details:
 
-- Email=onlinenewssite@admin.com and
+- Email=admin@gmail.com and
 - Password=123456789
 
 > **Note** <br>
